@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="../../../engine/Shopware/Components/Plugin/schema/plugin.xsd">
+    <label lang="de">KH - MenuScrolling deaktivieren</label>
+    <label lang="en">KH - deactivate MenuScrolling</label>
+    <version>1.0.0</version>
+    <link>https://karlharris.org</link>
+	<author>karlharris.org</author>
+	<description lang="de">MenuScrolling deaktivieren</description>
+	<description lang="en">Deactivate MenuScrolling</description>
+	<compatibility minVersion="5.2.0" maxVersion="5.6.0"></compatibility>
+</plugin>
